@@ -1,0 +1,16 @@
+PODS:
+  - Bolts/Tasks (1.5.0)
+  - Parse (1.9.1):
+    - Bolts/Tasks (>= 1.4.0)
+  - SVProgressHUD (HEAD based on 2.0-beta)
+
+DEPENDENCIES:
+  - Parse (~> 1.9.1)
+  - SVProgressHUD (HEAD)
+
+SPEC CHECKSUMS:
+  Bolts: 722ab9a4f8b50fc4ed1b9998a5a7a2b3f16d80b4
+  Parse: 54a965c8c19a6dde90284ab654dbcc77ef8c001b
+  SVProgressHUD: c83337f10ed32d701c423d519059a249973c8662
+
+COCOAPODS: 0.39.0
